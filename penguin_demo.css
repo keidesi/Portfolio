@@ -89,7 +89,7 @@ nav {
 
 /* HOME */
 #home {
-    background-image: url('image/background.png');
+    background-image: url('penguin_demo image/background.png');
     background-color: #8bdcff;
     height: 100%; 
     padding-top: 100px;
@@ -145,7 +145,7 @@ nav {
 /* ABOUT */
 #about {
     background-color: #FFF;
-    background-image: url('image/background3.png');
+    background-image: url('penguin_demo image/background3.png');
     height: 110%; 
     display: flex;
     align-items: center;
@@ -168,7 +168,7 @@ nav {
 /* event */
 .parallax {
     /* The image used */
-    background-image: url('image/c2-topright-1.png');
+    background-image: url('penguin_demo image/c2-topright-1.png');
     height: 60%; 
     background-attachment: fixed;
     background-position: center;
@@ -274,7 +274,7 @@ opacity: 1;
 
 /*contact*/
 #contact {
-  background-image: url('image/backgrond5.png');
+  background-image: url('penguin_demo image/backgrond5.png');
   background-color: #000;
   color: #fff;
   background-position: right bottom;
