@@ -169,7 +169,6 @@ nav {
 .parallax {
     /* The image used */
     background-image: url('penguin_demo image/c2-topright-1.png');
-    height: 60%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
