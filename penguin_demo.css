@@ -55,6 +55,13 @@ body, html {
     left: 0;
 }
 
+@media screen and (max-width: 768px) {
+  #logo  {
+    display: none; 
+  }
+}
+
+
 body {
   overflow-x: hidden;
 }
