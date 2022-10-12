@@ -201,8 +201,10 @@ li a {
 }
 
 .top-nav {
+  font-size: 1.2vw;
+  line-height: 0.4;
   top: 0;
-  padding: 0 60 0 60;
+  padding: 20 60 20 60;
   position: sticky;
   z-index: 2;
   background-color: #FFFAF6;
@@ -213,8 +215,10 @@ li a {
 }
 
 .bottom-nav {
+  font-size: 1.2vw;
+  line-height: 0.4;
   bottom: 0;
-  padding: 0 60 0 60;
+  padding: 20 60 20 60;
   position: sticky;
   background-color: #FFFAF6;
 }
@@ -223,6 +227,13 @@ li a {
   float: right;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 1000px) {
+  .bottomnav-right {float: left;}
+  .topnav-right {float: left;}
+  .container {width: 80%; height:80%;}
+  .container-img {width: 100%;}
 }
 
 .button {
